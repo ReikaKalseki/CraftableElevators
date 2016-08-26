@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "wire", "count" : 3 },
+    { "item" : "durasteelbar", "count" : 1 }
+  ],
+  "output" : { "item" : "durasteelelevatorshort", "count" : 1 },
+  "groups" : [ "craftingwiring", "mechanics" ]
+}

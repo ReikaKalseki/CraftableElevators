@@ -1,0 +1,10 @@
+{
+  "author" : "Reika",
+  "description" : "Makes all elevators craftable, since you will never get enough just raiding Hylotl cities.",
+  "friendlyName" : "Craftable Elevators",
+  "includes" : [],
+  "link" : "steam://url/CommunityFilePage/751146375",
+  "name" : "CraftableElevators",
+  "steamContentId" : "751146375",
+  "version" : "0.0.1"
+}
