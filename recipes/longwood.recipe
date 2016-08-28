@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "wire", "count" : 6 },
-    { "item" : "darkwoodmaterial", "count" : 2 },
+    { "item" : "wire", "count" : 9 },
+    { "item" : "darkwoodmaterial", "count" : 10 },
     { "item" : "smallbattery", "count" : 1 }
   ],
   "output" : { "item" : "woodenelevatorlong", "count" : 1 },

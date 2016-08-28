@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "wire", "count" : 3 },
-    { "item" : "copperbar", "count" : 1 }
-  ],
-  "output" : { "item" : "clockworkelevatorshort", "count" : 1 },
-  "groups" : [ "craftingwiring", "mechanics" ]
-}

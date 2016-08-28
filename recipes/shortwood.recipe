@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "wire", "count" : 3 },
-    { "item" : "darkwoodmaterial", "count" : 1 }
+    { "item" : "wire", "count" : 5 },
+    { "item" : "darkwoodmaterial", "count" : 4 }
   ],
   "output" : { "item" : "woodenelevatorshort", "count" : 1 },
   "groups" : [ "craftingwiring", "mechanics" ]
